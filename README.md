@@ -21,3 +21,13 @@ For example,
   if path(110) < path(105), look path(115), etc
 
   if path(110) >= path(105), output path(105)
+
+### Sample Runs
+1.
+<img src='Sample run1.PNG' title='test run' width='800' alt='test run' />
+
+2.
+<img src='Sample run2.PNG' title='test run' width='800' alt='test run' />
+
+3.
+<img src='Sample run3.PNG' title='test run' width='800' alt='test run' />
